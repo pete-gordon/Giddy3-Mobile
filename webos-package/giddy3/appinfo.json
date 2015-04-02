@@ -1,0 +1,10 @@
+{
+	"id": "com.pgordon.giddy3",
+	"version": "1.0.5",
+	"vendor": "Peter Gordon",
+	"type": "pdk",
+	"main": "giddy3",
+	"title": "Giddy 3",
+	"icon": "icon.png",
+	"requiredMemory": 120
+}
